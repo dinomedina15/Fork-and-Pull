@@ -1,3 +1,7 @@
 The purpose of this repository to demonstrate the "Fork and Pull" model in Github.
 
 It will a forked project which will be changed and pull back into master through a pull request.
+
+***** Changes ******
+
+These changes are made from a branch repository and intended to be pulled back into original
